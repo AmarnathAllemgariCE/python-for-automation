@@ -30,3 +30,12 @@ To get started with the examples:
 3. **Run Scripts**:
    ```bash
    python script_name.py  
+
+
+## Contribution
+Contributions are welcome! If you'd like to add new examples, fix bugs, or improve documentation, please follow the contribution guidelines provided in the CONTRIBUTING.md file.
+
+## Contact
+For any questions or feedback, please reach out to allemgariamarnath@gmail.com.
+
+Happy Learning!
