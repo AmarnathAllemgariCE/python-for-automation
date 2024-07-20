@@ -33,7 +33,7 @@ To get started with the examples:
 
 
 ## Contribution
-Contributions are welcome! If you'd like to add new examples, fix bugs, or improve documentation, please follow the contribution guidelines provided in the CONTRIBUTING.md file.
+Contributions are welcome! If you'd like to add new examples, fix bugs, or improve documentation, please follow the contribution guidelines provided in the [`CONTRIBUTING.md`](CONTRIBUTING.md) file.
 
 ## Contact
 For any questions or feedback, please reach out to allemgariamarnath@gmail.com.
