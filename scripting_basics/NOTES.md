@@ -6,7 +6,9 @@
 - **How to Run:**
   ```sh
   python hello.py
-  Expected Output: Hello, World!
+- **Expected Output:**
+  ```sh
+  Hello, World!
 ## `greet.py`
 - **Purpose:** Illustrates the use of functions and user input.
 - **Key Concept:** This script uses the `input()` function to get user input and then calls a function to greet the user.
@@ -14,6 +16,8 @@
   ```sh
   python greet.py
   Enter your name: Alice
+- **Expected Output:**
+  ```sh
   Expected Output: Hello, Alice!
 ## `script_with_args.py`
 - **Purpose:** Shows how to handle command-line arguments in Python.
@@ -21,6 +25,8 @@
 - **How to Run:**
   ```sh
   python script_with_args.py arg1 arg2
+- **Expected Output:**
+  ```sh 
   Arguments: arg1, arg2
   If no arguments are provided:
   No arguments provided.
@@ -30,6 +36,8 @@
 - **How to Run:**
   ```sh
   python main.py
+- **Expected Output:**
+  ```sh
   This script is being run directly.
 ## `greet_with_args.py`
 - **Purpose:** Shows how to handle command line arguments in Python.
