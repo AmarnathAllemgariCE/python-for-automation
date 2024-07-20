@@ -25,8 +25,8 @@ To get started with the examples:
    ```bash
    git clone https://github.com/your-username/python-automation.git
 2. **Navigate to desired directory**:
-  ```bash
-  cd python-automation/scripting_basics
-3. **Run the scripts**:
-  ```bash
-  python script_name.py
+  ```sh
+   cd python-automation/scripting_basics
+3. **Run scripts**:
+  ```sh
+   python script_name.py
